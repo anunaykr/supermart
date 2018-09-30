@@ -1,0 +1,40 @@
+{ "userInfo" :
+    {"userId": "2018/01/001" ,
+     "userName": "Divakar Banerjee",
+     "createdOn" :1514764800
+
+    } ,
+   "address":
+   { "adress1"  : "#301" ,
+     "address2" : "Building - 186 ,4th Main",
+     "address3" : "Maithri Layout",
+     "area"     : "whiefield",
+     "city"     : "Bangalore",
+     "state"    : "KN",
+     "pin"      : 560066
+   },
+   "payment":
+   { "paymentId"       : "2018/01/20100101" ,
+     "cardno"          : "1234567890101010" ,
+     "cardHolderName"  : "Divakar Banerjee",
+     "mode"            : "credicard",
+     "amount"          : 4000.23,
+     "paymentOn"       : 1514764800,
+     "statys"          : "completed"      
+   },
+   "product": [
+               { "productId"  : "BRL_GR_AP_001",
+                 "productName": "Blenders",
+                 "price"      : 3001.42,
+                 "quantity"   : 2,
+                 "discount"   : 200.1
+               } ,
+               { "productId"  : "BRL_GR_AN_001",
+                "productName": "Vaseline",
+                "price"      : 200.00,
+                "quantity"   : 1,
+                "discount"   : 20.00
+              }
+              ],
+   "modifiedOn": 1514764800
+}
